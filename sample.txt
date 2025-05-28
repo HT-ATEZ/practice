@@ -1,1 +1,3 @@
-#sampletxt
+###sampletxt
+##サンプル
+#修正しました

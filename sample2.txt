@@ -1,0 +1,2 @@
+sample2.txt
+6/10 feature/hata-updateで作成
